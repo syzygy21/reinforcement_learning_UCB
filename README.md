@@ -1,2 +1,3 @@
 # reinforcement_learning_UCB
-This project employs upper confidence bound algorithm to figure out the click through rate of 5 ads to figure out the best ad. 
+This project employs upper confidence bound algorithm to figure out the click through rate of 5 ads to figure out the best ad. The following is an image of the histogram generated after the algorithm was run completely. This project used a dataset to simulate a situation where a set of ads were being clicked and the upper confidence algorithm was run to figure out the ad with most click through rate. The ad with highest ctr is shown in the histogram along with the ctr of other ads as well. (![hist](https://user-images.githubusercontent.com/114510670/214394696-7dc23a50-d724-4950-b88d-04775dda58a8.png))
+
